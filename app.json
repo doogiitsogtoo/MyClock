@@ -1,0 +1,12 @@
+{
+  "name": "MyClock",
+  "displayName": "MyClock",
+  "expo": {
+    "name": "MyClock",
+    "slug": "MyClock",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
